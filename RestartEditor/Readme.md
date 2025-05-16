@@ -8,11 +8,10 @@
 
 ### Via Epic Games Marketplace
 
-1. Go to the [plugin on the Marketplace](com.epicgames.launcher://ue/Fab/product/48eabc75-cc76-446f-91eb-0a268dda98d6)
-2. Click on "Add to my account"
-3. In the Epic Games Launcher, install the plugin
-4. In your project, enable the plugin via the **Edit > Plugins** menu
-5. Restart the editor when prompted
+1. Add the plugin to your library
+2. In the Epic Games Launcher, install the plugin
+3. In your project, enable the plugin via the **Edit > Plugins** menu
+4. Restart the editor when prompted
 
 ### Manual Installation
 
@@ -30,11 +29,11 @@ After installation, you can access the plugin in two ways:
 
 ### Configuration Options
 
-Right-click on any of the buttons to access options:
+Access the options menu by clicking on the button on the right (three dots).:
 
 - **Auto save before reload**: Automatically saves all modified files before restarting
 - **Auto reload last map opened**: Automatically reloads the last opened map after restart
-- **Change shortcut**: Allows you to set a custom keyboard shortcut to restart the editor
+- **Change shortcut**: Allows you to set a custom keyboard shortcut to restart the editor (Default shartuct is "CTRL + SHIFT + R")
 
 ## Key Features
 
@@ -65,7 +64,3 @@ Configure your own key combination to restart the editor even faster.
 ### The editor doesn't restart properly
 - Verify that you have administrator rights on your system
 - Make sure no UE process is blocking the restart
-
----
-
-For additional assistance, please visit the product page on the Epic Games Marketplace.
